@@ -16,6 +16,7 @@ The analysis was performed by extracting historical crowd-funding data which the
 ![image](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+![image](https://github.com/jenchick/kickstarter-analysis/blob/5a828a4c757487bc71ed0cf7d3e5982874b26671/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
