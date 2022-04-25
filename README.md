@@ -10,9 +10,10 @@ The purpose of this project is to examine Kickstarter data to uncover trends and
 
 ## Analysis and Challenges
 How you performed your analysis using images and links to code
-The analysis was performed by extracting historical crowd-funding which then focused on the  
+The analysis was performed by extracting historical crowd-funding data which then organized, sorted, and analyzed.  
 
 ### Analysis of Outcomes Based on Launch Date
+
 
 ### Analysis of Outcomes Based on Goals
 
